@@ -1,4 +1,4 @@
-# JuanWork
+# GraphKR Work
 
 Revisiting GKR (https://github.com/kkalouli/GKR_semantic_parser) but for mathematical texts. Not using Java, to make it more accessible.
 
