@@ -5,8 +5,8 @@ Revisiting GKR (https://github.com/kkalouli/GKR_semantic_parser) but for mathema
 First, we want to create representations,  in CNLL-U format (https://universaldependencies.org/format.html)
 for the sentences/pairs in  https://github.com/vcvpaiva/MathNLI2024-/blob/main/gold-final-0116.txt.
 
-Second, we want to create Enhanced UDs for this corpus. We can adapt one of the English models.
-(These are described in `Enhanced English Universal Dependencies: An Improved Representation for Natural Language Understanding 
+Second, we want to create Enhanced UDs for this corpus. We can adapt the enhanced dependencies created for the English models.
+(Originally described in `Enhanced English Universal Dependencies: An Improved Representation for Natural Language Understanding 
 Tasks', Schuster and Manning, https://aclanthology.org/L16-1376/).
 
 
